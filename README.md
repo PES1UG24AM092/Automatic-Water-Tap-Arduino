@@ -21,3 +21,6 @@ This project applies several core Microprocessor and Computer Architecture conce
 * **HC-SR04 Ultrasonic Sensor:** Measures distance (2-400 cm)[cite: 10].
 * **5V Relay Module:** Isolates the Arduino from the pump supply[cite: 10].
 * **DC Mini Pump:** Dispenses fluid when the relay closes[cite: 10].
+
+## Circuit Diagram
+![Automatic Water Tap Circuit](assets/Circuit_Diagram.png)
